@@ -60,6 +60,10 @@ function filterMovie(str) {
       document.getElementById("filter-test").innerHTML = this.responseText;
     }
   };
-  xml.open("GET", "assets/model/includes/filtermovie.php?request=" + str, true);
+  xml.open(
+    "GET",
+    "../assets/model/includes/filtermovie.php?request=" + str,
+    true
+  );
   xml.send();
 }
