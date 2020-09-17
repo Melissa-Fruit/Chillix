@@ -9,6 +9,12 @@ BeCode's Getflix project
   - backend
   - project management
   
+## Used languages
+* HTML5
+* CCS3
+* PHP
+* JavaScript
+  
 ## Our team & what we do:
 
 * [Lap hoang](https://github.com/lap-hoang24) 
