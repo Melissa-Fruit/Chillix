@@ -9,7 +9,7 @@ BeCode's Getflix project
   - backend
   - project management
   
-## Used languages
+## Used languages in MVC structure :
 * HTML5
 * CCS3
 * PHP
