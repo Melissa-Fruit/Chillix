@@ -5,6 +5,7 @@ ob_start();
 require_once("../assets/model/includes/config-local.php");
 require_once("../assets/controller/classes/Account.php");
 require_once("../assets/controller/classes/Constants.php");
+require_once("../assets/controller/classes/login1.php");
 // require_once("register.php");
 
 
